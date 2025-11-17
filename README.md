@@ -1,13 +1,12 @@
-# Regressione-logistica-e-curve-ROC-in-R
-*Applicazione di metodi statistici per la validazione di indici diagnostici predittivi: Il caso delle ospedalizzazioni COVID.*
+# Logistic model and its validation
+*Application of Statistical Methods for the Validation of Predictive Diagnostic Indices: The Case of COVID Hospitalizations*
 
-Mi sono laurato in triennale durante la pandemia COVID quindi per la tesi ho deciso di approfondire i dati delle ospedalizzazioni in un ospedale cittadino, con l'obbiettivo di trovare un modello che potesse prevedere il rischio di mortalità per vari tipi di persone.
+I completed my Bachelor's degree during the COVID pandemic, so for my thesis I decided to analyze hospitalization data from a local city hospital, with the aim of identifying a model capable of predicting mortality risk for different types of patients.
 
-Ho quindi attraverso R validato alcuni studi di ricerca svolti a livello mondiale per cercare di capire quale poteva essere il migliore.
-Ho utilizzato il metodo della regressione logistica (glm) e le curve ROC utilizzando l'apposito pacchetto R.
+Using R, I validated several research studies conducted worldwide to understand which model performed best. I employed logistic regression (GLM) and ROC curves, using the appropriate R packages.
 
-File presenti:
+Included files:
 
-1. File Excel DB per i calcoliI dove sono presinti i dati utilizzati per i calcoli precedentemente  sistemati in modo da renderne più facile l'utilizzo in R.
-2. File R con la parte di programmazione, divisa su due file per semplicità.
-3. File pdf della tesi dove si può ritrovare i risultati ottenuti.
+1)Excel database used for the calculations, containing the cleaned and organized data to facilitate processing in R.
+2)R scripts with the programming work, split across two files for simplicity.
+3)PDF of the thesis, which includes the obtained results (only in italian).
