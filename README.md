@@ -3,3 +3,5 @@ Applicazione di metodi statistici per la validazione di indici diagnostici predi
 Mi sono laurato in triennale durante la pandemia COVID quindi per la tesi ho deciso di approfondire i dati delle ospedalizzazioni in un ospedale cittadino, con l'obbiettivo di trovare un modello che potesse prevedere il rischio di mortalità per vari tipi di persone.
 Ho quindi attraverso R validato alcuni studi di ricerca svolti a livello mondiale per cercare di capire quale poteva essere il migliore.
 Ho utilizzato il metodo della regressione logistica (glm) e le curve ROC utilizzando l'apposito pacchetto R.
+I dati che ho utilizzati sono presenti nel file Excel DB per i calcoli precedentemente  sistemato in modo da rendere più facile l'utilizzo in R.
+Ho inoltre aggiunto un pdf della tesi dove si può ritrovare i risultati ottenuti.
