@@ -7,6 +7,6 @@ Using R, I validated several research studies conducted worldwide to understand 
 
 Included files:
 
-1)Excel database used for the calculations, containing the cleaned and organized data to facilitate processing in R.
-2)R scripts with the programming work, split across two files for simplicity.
-3)PDF of the thesis, which includes the obtained results (only in italian).
+1) Excel database used for the calculations, containing the cleaned and organized data to facilitate processing in R.
+2) R scripts with the programming work, split across two files for simplicity.
+3) PDF of the thesis in italian, which includes the obtained results.
